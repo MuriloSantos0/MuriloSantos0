@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Murilo Santos, tenho 21 anos e sou do interior do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia desde pequeno.
+Me chamo Murilo Santos, tenho 21 anos e sou do interior do Rio de Janeiro. Atualmente, curso Engenharia de Software e sou apaixonado por tecnologia desde criança. Estou sempre em busca de aprender novas ferramentas e desenvolver soluções que unam criatividade e eficiência.
 
 ---
 
